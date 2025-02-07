@@ -10,5 +10,3 @@
 #   universal: false
 
 -e file:.
-python-ipmi==0.5.7
-    # via ipmi-fan-speed-service
